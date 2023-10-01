@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    background-color: lightpink;
+}
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: solid 2px #000;
+}
+
+td {
+    text-align: center;
+    border: solid 1px #000;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.table2 {
+    
+}
